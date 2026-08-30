@@ -1,0 +1,20 @@
+aws-three-tier-architecture/
+│
+├── README.md
+│
+├── architecture/
+│   └── three-tier-architecture.png
+│
+├── screenshots/
+│   ├── vpc.png
+│   ├── subnets.png
+│   ├── route-tables.png
+│   ├── alb.png
+│   ├── target-group.png
+│   ├── ec2.png
+│   ├── rds.png
+│   ├── nat-gateway.png
+│   └── website.png
+│
+└── docs/
+    └── project-explanation.md
